@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 *{
-    color: black;   
+    color: black;  
+    font-family: 'Raleway', sans-serif;
 }
 .page_section {
 
@@ -68,4 +71,8 @@ p{
     width: 120px;
     border-radius: 60px;
     z-index : "1";
+}
+
+.text_white li {
+    color: white;
 }
